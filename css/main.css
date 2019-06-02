@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #2b2b2b;
+    color: #7F7F7F;
 }
 
 #about, #work, #contact {
@@ -38,7 +38,7 @@ header h1 {
     padding: 65px 0 65px 25px;
     font-family: 'Lora', serif;
     font-size: 30px;
-    color: #5588a3;
+    color: #BBC085;
 }
 
 nav {
@@ -62,15 +62,14 @@ header h2 {
     width: 1000px;
     clear: both;
     font-family: 'Lora', serif;
-    font-size: 60px;
-    line-height: 1.111;
-    color: #b8b8b8;
+    font-size: 72px;
+    line-height: 80px;
+    color: #9b9b9b;
     padding: 20px 0 20px 25px;
 }
 
 header h2 span {
-    color: #145374;
-    font-size: 70px;
+    color: #2b2b2b;
 }
 
 /***** ABOUT *****/
@@ -83,6 +82,7 @@ header h2 span {
     font-family: 'Lora', serif;
     font-size: 36px;
     padding-left: 50px;
+    color: #2b2b2b;
 }
 
 #about p {
@@ -96,9 +96,8 @@ header h2 span {
 /***** WORK *****/
 
 #work {
-    background-color: #5588a3;
+    background-color: #F9CEB7;
     text-align: center;
-    color: #E8E8E8;
 }
 
 #work .full-width {
@@ -110,10 +109,12 @@ header h2 span {
 }
 
 #work h3 {
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 24px;
     line-height: 32px;
     width: 190px;
     margin: 0 auto;
+    color: #2b2b2b;
 }
 
 #work p {
@@ -121,6 +122,7 @@ header h2 span {
     font-size: 18px;
     line-height: 30px;
     padding: 0 50px;
+    color: #2b2b2b;
 }
 
 /***** CONTACT *****/
@@ -150,13 +152,16 @@ header h2 span {
     font-family: 'Lora', serif;
     font-size: 36px;
     line-height: 44px;
+    color: #2b2b2b;
 }
 
 #contact #email-header {
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 32px;
     font-weight: 400;
     line-height: 44px;
     margin: -30px 0 5px 0;
+    color: #2b2b2b;
 }
 
 #contact #socialmedia-header {
